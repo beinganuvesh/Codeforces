@@ -1,2 +1,2 @@
 # Codeforces
-#Codes related to the contests on codeforces
+Codes related to the contests on codeforces
